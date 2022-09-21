@@ -1,4 +1,5 @@
-ARKit Voice2Face 
+该技术可以实时将音频数据转换为驱动数字人面部BlendShape的权重数据，不同于ARKit中的52个BlendShape，它的数量多达116个，我们可以通过对应关系得到相应的数值，对应关系如下：
+ARKit                           Voice2Face 
 eyeBlinkLeft 			eye_blink2_l 
 eyeLookDownLeft 		eye_lookDown2_l 
 eyeLookInLeft 			eye_lookRight_l 
